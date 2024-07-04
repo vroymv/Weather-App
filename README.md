@@ -21,7 +21,7 @@
 
 ## 🚨 About
 
-Enter a City and get it's current weather conditions. (Rain and temperature)
+Enter a City and get it's current weather conditions. (Rain and temperature). Feel free to embed this in your larger projects
 
 ## <a name="introduction">🤖 Introduction</a>
 
